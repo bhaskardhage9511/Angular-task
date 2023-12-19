@@ -1,0 +1,18 @@
+.header{
+    color: #04aa6d;
+    margin-left: 590px
+}
+
+  .changebg{
+    border: 1px solid black;
+  }
+
+ .changebg:hover {
+     background-color: #e6fff2;
+     border-radius: 2%;
+     border: 4px solid #04aa6d;
+ }
+
+ .changebg:hover .dropd {
+    display: block;
+ }
